@@ -1,2 +1,5 @@
 * 工具学习
-** [[git.org][git]]
+** 版本控制  [[git.org][git]]
+** 编辑器 [[emacs.org][emacs]]
+**
+
