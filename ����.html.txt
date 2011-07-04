@@ -1,7 +1,0 @@
-并发类库学习
-
-CountDownLatch
-等待别的操作完成的同步化器，典型的用例是：
-一个或多个线程等级某些操作完成，当这些操作异步完成时，同时countDown同步器值，当值变为0时，等待线程就会被同时
-条件已经完成了，API为await(),await(long,TimeUnit), countDown()
-
