@@ -1,4 +1,0 @@
-﻿* Tip
-** 文件编码设置(二选一) 
-   设置默认编码 .emacs (setq default-buffer-file-coding-system 'uft-8)
-   设置优先级编码 (prefer-coding-system 'uft-8)
